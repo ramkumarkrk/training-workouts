@@ -1,0 +1,32 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+margin:0;
+}
+
+
+.container {
+
+}
+
+.container .header {
+background-color: rgba(185, 17, 185, 0.133);
+height: 35px;
+padding: 17.5px 0 0 15px ;
+}
+
+.container .header .brand {
+float: left;
+padding-right: 15px;
+}
+
+.container .header .menu {
+   
+}
+
+.container .header .menu ul{
+    list-style-type: none;
+}
+
+.container .header .menu ul li{
+    display: inline;
+}
